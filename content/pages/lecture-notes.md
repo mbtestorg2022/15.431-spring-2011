@@ -6,33 +6,334 @@ uid: 0d360ec4-9180-67ae-f9ca-93a99c185124
 
 Selected lecture notes are available below.
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Introduction and overview of entrepreneurial finance | &nbsp; |
-| 2 | DermaCare | &nbsp; |
-| {{< td-colspan 3 >}}**Business Valuation**{{< /td-colspan >}} |||
-| 3 | Discounted cash flow (DCF) and the venture capital method | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec01)) |
-| 4 | Netflix | &nbsp; |
-| 5 | Real option valuation | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec05)) |
-| 6 | Real option valuation (cont.) | &nbsp; |
-| {{< td-colspan 3 >}}**Deal Structure**{{< /td-colspan >}} |||
-| 7 | Genzyme/Geltex | &nbsp; |
-| 8 | Deal structure | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec08)) |
-| 9 | Walnut Venture Associates (A) and (D) | &nbsp; |
-| 10 | Deal structure (cont.) | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec10)) |
-| 11 | Guest: John H. Chory (Partner, WilmerHale Venture Group) | &nbsp; |
-| 12 | Metapath | &nbsp; |
-| {{< td-colspan 3 >}}**Team Sheet Negotiation**{{< /td-colspan >}} |||
-| 13 | BNI Video  {{< br >}}Guests: Conrad Clemson (Founder and CEO, BNI Video) and Carl Stjernfeldt (General Partner, Castile Ventures) | &nbsp; |
-| 14 | BNI Video  {{< br >}}Guest: Carl Stjernfeldt (General Partner, Castile Ventures) | &nbsp; |
-| {{< td-colspan 3 >}}**Venture Capital Funds**{{< /td-colspan >}} |||
-| 15 | Guest: Dr. William Janeway (Senior Advisor, Warburg Pincus) | &nbsp; |
-| 16 | Portfolio and partnership  {{< br >}}Guest: Carl Stjernfeldt (General Partner, Castile Ventures) | &nbsp; |
-| 17 | VC Vignettes  {{< br >}}Guest: Carl Stjernfeldt (General Partner, Castile Ventures) | &nbsp; |
-| 18 | Grove Street Advisors - September 2009  {{< br >}}Guest: Christopher E. Yang (General Partner, Grove Street Advisors) | &nbsp; |
-| 19 | Forte Ventures | &nbsp; |
-| {{< td-colspan 3 >}}**Exit**{{< /td-colspan >}} |||
-| 20 | Initial public offering (IPO)  {{< br >}}Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht) | ([PDF - 1.0MB]({{< baseurl >}}/resources/mit15_431s11_lec20)) (Courtesy of Michael Szeto. Used with permission.) |
-| 21 | Grand Junction  {{< br >}}Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht) | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec21)) (Courtesy of Michael Szeto. Used with permission.) |
-| 22 | Blackstone | &nbsp; |
-| 23 | Final review | ([PDF]({{< baseurl >}}/resources/mit15_431s11_lec23))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and overview of entrepreneurial finance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+DermaCare
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Business Valuation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discounted cash flow (DCF) and the venture capital method
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Netflix
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Real option valuation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Real option valuation (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Deal Structure**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Genzyme/Geltex
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Deal structure
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec08))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Walnut Venture Associates (A) and (D)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Deal structure (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: John H. Chory (Partner, WilmerHale Venture Group)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Metapath
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Team Sheet Negotiation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+BNI Video  
+Guests: Conrad Clemson (Founder and CEO, BNI Video) and Carl Stjernfeldt (General Partner, Castile Ventures)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+BNI Video  
+Guest: Carl Stjernfeldt (General Partner, Castile Ventures)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Venture Capital Funds**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Guest: Dr. William Janeway (Senior Advisor, Warburg Pincus)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Portfolio and partnership  
+Guest: Carl Stjernfeldt (General Partner, Castile Ventures)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+VC Vignettes  
+Guest: Carl Stjernfeldt (General Partner, Castile Ventures)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Grove Street Advisors - September 2009  
+Guest: Christopher E. Yang (General Partner, Grove Street Advisors)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Forte Ventures
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Exit**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Initial public offering (IPO)  
+Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.0MB]({{< baseurl >}}/resources/mit15_431s11_lec20)) (Courtesy of Michael Szeto. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Grand Junction  
+Guest: Michael Szeto (Managing Director of Private Equity, WR Hambrecht)
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec21)) (Courtesy of Michael Szeto. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Blackstone
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final review
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit15_431s11_lec23))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
